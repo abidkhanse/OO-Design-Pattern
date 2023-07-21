@@ -9,6 +9,11 @@ public class Main {
     public static void main(String[] args) {
 
         int arr[] = new int[5];
+        arr[0] = 5;
+        arr[1] = 1;
+        arr[2] = 3;
+        arr[3] = 1;
+        arr[4] = 1;
 
         SortingStrategy strategy = new Bubble();
         SortContext sortContext = new SortContext(strategy);
