@@ -1,4 +1,4 @@
-package singleton.thread_not_safe.logging;
+package singleton.logging;
 
 public class Logger {
     private static volatile Logger logger;

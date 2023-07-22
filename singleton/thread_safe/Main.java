@@ -1,4 +1,4 @@
-package singleton.thread_not_safe.thread_safe;
+package singleton.thread_safe;
 
 public class Main {
 
