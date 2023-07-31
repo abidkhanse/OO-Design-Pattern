@@ -16,8 +16,6 @@ public class Main {
         remoteControl.setCommand(lightOffCommand);
         remoteControl.buttonPressed();
 
-
-
     }
 
 }
