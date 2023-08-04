@@ -16,7 +16,7 @@ public class Main {
         IBookIterator iterator = library.getIterator();
 
         while(iterator.hasNext()) {
-            System.out.println(iterator.Next().toString());
+            System.out.println(iterator.next().toString());
         }
 
     }

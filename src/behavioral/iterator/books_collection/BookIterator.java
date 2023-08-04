@@ -17,7 +17,7 @@ public class BookIterator implements IBookIterator{
     }
 
     @Override
-    public Book Next() {
+    public Book next() {
         return hasNext() ? books.get(count++) : null;
     }
 }
