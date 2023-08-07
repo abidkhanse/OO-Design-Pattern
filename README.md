@@ -39,13 +39,14 @@ Let's have a very quick look at what these patterns are:
 and these 3 design patterns are subdivided in following categories
 
 * Behavioral
-    - Chain of responsibility 
+    - Chain of Responsibility 
     - Command
     - Iterator
     - Mediator
     - Observer
     - Strategy
     - Memento
+  
     
 
 * Creational
