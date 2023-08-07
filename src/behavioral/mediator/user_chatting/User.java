@@ -1,4 +1,4 @@
-package src.behavioral.mediator_pattern.user_chatting;
+package src.behavioral.mediator.user_chatting;
 
 public class User {
     private String name;

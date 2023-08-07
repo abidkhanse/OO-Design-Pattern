@@ -1,4 +1,4 @@
-package src.behavioral.mediator_pattern.user_chatting;
+package src.behavioral.mediator.user_chatting;
 
 import java.util.ArrayList;
 import java.util.List;

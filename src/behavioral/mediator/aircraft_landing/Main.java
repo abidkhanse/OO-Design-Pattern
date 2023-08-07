@@ -1,4 +1,4 @@
-package src.behavioral.mediator_pattern.aircraft_landing;
+package src.behavioral.mediator.aircraft_landing;
 
 public class Main {
 

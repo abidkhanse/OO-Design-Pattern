@@ -36,7 +36,7 @@ Let's have a very quick look at what these patterns are:
 > Strategy design pattern defines a family of algorithms, encapsulates each one, and makes them interchangeable.
 > It allows the client chooses the appropriate algorithm at runtime without modifying the client's code.
 
-and these 3 design patterns are sub divided in following categories
+and these 3 design patterns are subdivided in following categories
 
 * Behavioral
     - Chain of responsibility 
@@ -45,6 +45,7 @@ and these 3 design patterns are sub divided in following categories
     - Mediator
     - Observer
     - Strategy
+    - Memento
     
 
 * Creational
