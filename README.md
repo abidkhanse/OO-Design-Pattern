@@ -18,7 +18,7 @@ In this repository, you will learn the following design patterns with different 
 * Strategy  
 
 
-Let's have a very quick look at what are these patterns are:
+Let's have a very quick look at what these patterns are:
 
 ### Behavioral design patterns
 
