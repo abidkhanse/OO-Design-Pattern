@@ -47,6 +47,7 @@ and these 3 design patterns are subdivided in following categories
     - Strategy
     - Memento
     - State  
+    - Template
     
 
 * Creational
