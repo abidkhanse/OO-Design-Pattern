@@ -46,7 +46,7 @@ and these 3 design patterns are subdivided in following categories
     - Observer
     - Strategy
     - Memento
-  
+    - State  
     
 
 * Creational
