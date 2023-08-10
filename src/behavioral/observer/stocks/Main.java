@@ -1,7 +1,6 @@
 package src.behavioral.observer.stocks;
 
 public class Main {
-
     public static void main(String[] args) {
 
         Broker b1 = new Broker("Alin");
