@@ -48,6 +48,7 @@ and these 3 design patterns are subdivided in following categories
     - Memento
     - State  
     - Template
+    - Visitor
     
 
 * Creational

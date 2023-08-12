@@ -20,4 +20,5 @@ public class DisplayItems implements Visitor {
     public void visit(Monitor monitor) {
         System.out.printf("Monitor name: %s and price: %s%n",monitor.getName(), monitor.getPrice() );
     }
+
 }
