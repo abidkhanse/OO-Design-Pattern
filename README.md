@@ -58,7 +58,7 @@ and these 3 design patterns are subdivided in following categories
   * Singleton
   
     
-* Strategy
-  * will be added soon
+* Structural
+  * Adapter
 
 Feel free to explore the code, learn from the examples, and contribute to this ever-growing resource of design pattern knowledge. Happy coding!
