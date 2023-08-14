@@ -15,7 +15,7 @@ In this repository, you will learn the following design patterns with different 
 
 * Behavioral
 * Creational
-* Strategy  
+* Structural  
 
 
 Let's have a very quick look at what these patterns are:
@@ -30,11 +30,10 @@ Let's have a very quick look at what these patterns are:
 > Creational design patterns are concerned with object creation mechanisms, providing a way to create objects in a manner that 
 > is flexible, efficient, and adheres to good object-oriented design principles.
 
+### Structural design pattern
 
-### Strategy design pattern
-
-> Strategy design pattern defines a family of algorithms, encapsulates each one, and makes them interchangeable.
-> It allows the client chooses the appropriate algorithm at runtime without modifying the client's code.
+> Structural design patterns focus on how classes and objects are composed to form larger structures and relationships. These patterns help 
+> developers design and manage the relationships between different parts of a software system, enabling them to create flexible, efficient, and maintainable code.
 
 and these 3 design patterns are subdivided in following categories
 
@@ -48,6 +47,7 @@ and these 3 design patterns are subdivided in following categories
     - Memento
     - State  
     - Template
+    - Visitor
     
 
 * Creational
@@ -57,7 +57,7 @@ and these 3 design patterns are subdivided in following categories
   * Singleton
   
     
-* Strategy
-  * will be added soon
+* Structural
+  * Adapter
 
 Feel free to explore the code, learn from the examples, and contribute to this ever-growing resource of design pattern knowledge. Happy coding!
