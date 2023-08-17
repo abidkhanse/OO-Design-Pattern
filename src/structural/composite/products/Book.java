@@ -1,10 +1,10 @@
-package src.structural.composite;
+package src.structural.composite.products;
 
-public class VideoGame extends Product {
+public class Book extends Product {
     String title;
     double price;
 
-    public VideoGame(String title, double price) {
+    public Book(String title, double price) {
         this.title = title;
         this.price = price;
     }
